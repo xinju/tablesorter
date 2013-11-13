@@ -1,4 +1,4 @@
-tablesorter
+TableSorter Plugin
 ===========
 
 The lightest weight jQuery table sorter plugin.
